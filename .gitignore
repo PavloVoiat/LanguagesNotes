@@ -1,2 +1,19 @@
-#Obsidian system files
-*.obsidian/
+# Ignore all Obsidian configuration by default
+.obsidian/*
+
+# --- Uncomment specific lines below to sync certain configurations ---
+# !.obsidian/app.json              # Sync main app settings (optional)
+# !.obsidian/appearance.json       # Sync theme and appearance (optional)
+# !.obsidian/community-plugins.json # Sync list of installed community plugins (optional, requires manual reinstallation on new devices)
+# !.obsidian/core-plugins.json     # Sync enabled core plugins (optional)
+# !.obsidian/hotkeys.json          # Sync custom hotkeys (optional)
+
+# Ignore specific workspace and cache files to prevent merge conflicts
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian-git-data # Used by the Obsidian Git plugin for internal tracking
+
+# System files and caches
+.trash/
+.DS_Store
+*.swp
