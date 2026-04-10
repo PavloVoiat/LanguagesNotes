@@ -1,1 +1,8 @@
-# Проекты на JavaScript
+# Мои проекты на JavaScript
+
+1. **[Colors Generator](https://pavlovoiat.github.io/ColorGenerator)**
+![Screenshot](images/image1.jpg)
+   
+2. **[Inventory System](https://pavlovoiat.github.io/InventorySystem)**
+
+![Screenshot](images/image2.ipg)
