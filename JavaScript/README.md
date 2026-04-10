@@ -5,7 +5,7 @@
 
 ![Screenshot](.images/image1.jpg)
    
-3. **[Inventory System](https://pavlovoiat.github.io/InventorySystem)**<br>
+2. **[Inventory System](https://pavlovoiat.github.io/InventorySystem)**<br>
 <br>
 
 ![Screenshot](.images/image2.jpg)
